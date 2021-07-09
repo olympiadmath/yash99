@@ -32,7 +32,7 @@ nav ul {
 }
 
 .animation-area {
-  background: linear-gradient(to left, #141313,#474444);
+  background: linear-gradient(to left, #6354789,#474444);
   width: 100%;
   height: 100vh;
 }
@@ -52,7 +52,7 @@ nav ul {
   list-style: none;
   width: 25%;
   height: 25;
-  background: rgba(31, 30, 30, 0.2);
+  background: rgba(11, 130, 130, 0.52);
   animation: animate 20s liniear infinite;
   bottom: -150px;
 }
@@ -142,7 +142,7 @@ body{
   background-color: var(--second-color);
   font-family: var(--body-font);
   font-size: 1.5rem;
-  color: #fff;
+  color: #fdf;
 }
 h1,h2,p{
   margin: 0;
